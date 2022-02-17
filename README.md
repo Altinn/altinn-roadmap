@@ -1,2 +1,3 @@
-# altinn-roadmap
-Roadmap for high-level features in Altinn
+# Roadmap
+
+Roadmap for high-level features in Altinn.
