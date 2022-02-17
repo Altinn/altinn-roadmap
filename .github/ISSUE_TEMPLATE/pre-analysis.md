@@ -2,7 +2,7 @@
 name: Pre-analysis
 about: Optional conceptual pre-analysis for a given feature
 title: ''
-labels: ''
+labels: kind/pre-analysis
 assignees: ''
 
 ---
